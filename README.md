@@ -8,16 +8,16 @@ This project follows the tutorial from [YouTube](https://www.youtube.com/watch?v
 
 ## Project Structure
 
-. 
-├── dataset/ # Folder containing the dataset for training 
-├── examples/ # Folder with sample images for testing 
-├── mobilenet_v2.model # Saved model file after training 
-├── mask_detection.ipynb # Jupyter notebook for training the model 
-├── use_model.ipynb # Jupyter notebook for static image inference 
-├── use_model_video.ipynb # Jupyter notebook for real-time webcam detection 
-├── deploy.prototxt # Prototxt file for the face detection model 
-└── res10_300x300_ssd_iter_140000.caffemodel # Pre-trained Caffe model for face detection
+## Project Structure
 
+- **dataset/**: Folder containing the dataset for training
+- **examples/**: Folder with sample images for testing
+- **mobilenet_v2.model**: Saved model file after training
+- **mask_detection.ipynb**: Jupyter notebook for training the model
+- **use_model.ipynb**: Jupyter notebook for static image inference
+- **use_model_video.ipynb**: Jupyter notebook for real-time webcam detection
+- **deploy.prototxt**: Prototxt file for the face detection model
+- **res10_300x300_ssd_iter_140000.caffemodel**: Pre-trained Caffe model for face detection
 
 ---
 
